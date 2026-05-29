@@ -25,6 +25,6 @@ else:
 final_total = original_total - discount
 
 # show results
-print("Original total: Rs", original_total)
+print("\nOriginal total: Rs", original_total)
 print("Discount: Rs", discount)
 print("Final amount to pay: Rs", final_total)

@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d3e5d3c-7e3d-47f4-9659-39dc9b6d0b6a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/PDE1823-Python Practice worksheet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PDE1823-Python Practice worksheet.iml" afterDir="false" />
+    <list default="true" id="0d3e5d3c-7e3d-47f4-9659-39dc9b6d0b6a" name="Changes" comment="Initial project upload">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q1.py" beforeDir="false" afterPath="$PROJECT_DIR$/q1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q10.py" beforeDir="false" afterPath="$PROJECT_DIR$/q10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q2.py" beforeDir="false" afterPath="$PROJECT_DIR$/q2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q3.py" beforeDir="false" afterPath="$PROJECT_DIR$/q3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q4.py" beforeDir="false" afterPath="$PROJECT_DIR$/q4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q5.py" beforeDir="false" afterPath="$PROJECT_DIR$/q5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q6.py" beforeDir="false" afterPath="$PROJECT_DIR$/q6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q7.py" beforeDir="false" afterPath="$PROJECT_DIR$/q7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q8.py" beforeDir="false" afterPath="$PROJECT_DIR$/q8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q9.py" beforeDir="false" afterPath="$PROJECT_DIR$/q9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,12 +65,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1780029950958</updated>
-      <workItem from="1780029951996" duration="1381000" />
+      <workItem from="1780029951996" duration="1816000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial project upload">
+      <option name="closed" value="true" />
+      <created>1780031866426</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1780031866426</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial project upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial project upload" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

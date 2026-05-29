@@ -28,6 +28,6 @@ else:
     activity = "Low Activity"
 
 # Display results
-print("Total steps this week:", total_steps)
+print("\nTotal steps this week:", total_steps)
 print("Average steps per day:", round(average_steps, 2))
 print("Activity level:", activity)
